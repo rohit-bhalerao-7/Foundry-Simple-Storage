@@ -1,0 +1,2 @@
+In Foundry If we don't specify the RPC-URL, it will be deployed on temporary anvil chain
+You should'nt add spaces between equal to & variables & its value in .env file
